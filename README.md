@@ -1,1 +1,2 @@
-# akshayanswebsite
+Akshayan Balakirushnan - Portfolio Website
+This is my personal website showcasing my projects, skills and experiences as a Mechatronics Engineering Student at the University of Western Ontario. This site highlights my technical skills, desgin work and journey serving as both a resume and a creative space to share my work. Enjoy!
